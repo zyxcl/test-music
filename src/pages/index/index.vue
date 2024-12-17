@@ -1,4 +1,5 @@
 <template>
+  aslkdfjlaksdjflkasdklfjlkads
   <view class="content">
     <image class="logo" src="/static/logo.png" />
     <view class="text-area">
