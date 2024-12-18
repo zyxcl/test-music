@@ -1,5 +1,5 @@
 <template>
-  aslkdfjlaksdjflkasdklfjlkads
+  <h1>这是我的测试页面</h1>
   <view class="content">
     <image class="logo" src="/static/logo.png" />
     <view class="text-area">
