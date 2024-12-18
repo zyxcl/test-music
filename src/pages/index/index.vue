@@ -14,6 +14,9 @@ const title = ref('Hello')
 </script>
 
 <style>
+h1 {
+  color: red;
+}
 .content {
   display: flex;
   flex-direction: column;
